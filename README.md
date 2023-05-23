@@ -1,2 +1,2 @@
 # ViT
-Basic Vision Transformer Implementation
+Basic Vision Transformer Implementation with the MNIST dataset.
